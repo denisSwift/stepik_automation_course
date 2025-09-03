@@ -1,2 +1,2 @@
 # stepik_automation_course
-This is homework from the course
+This is homework from the course from stepik platform!!!
